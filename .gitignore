@@ -1,0 +1,3 @@
+# Project exclude paths
+/learn-express/node_modules/
+/learn-sequelize/node_modules/
